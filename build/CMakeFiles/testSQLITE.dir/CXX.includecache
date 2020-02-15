@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mayuan/Desktop/WORKING/test_sqlite/main.cpp
+iostream
+/Users/mayuan/Desktop/WORKING/test_sqlite/iostream
+sqlite3.h
+/Users/mayuan/Desktop/WORKING/test_sqlite/sqlite3.h
+
+/usr/local/Cellar/sqlite/3.23.1/include/sqlite3.h
+stdarg.h
+-
+

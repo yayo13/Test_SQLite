@@ -1,0 +1,3 @@
+/Users/mayuan/Desktop/WORKING/test_sqlite/build/CMakeFiles/rebuild_cache.dir
+/Users/mayuan/Desktop/WORKING/test_sqlite/build/CMakeFiles/edit_cache.dir
+/Users/mayuan/Desktop/WORKING/test_sqlite/build/CMakeFiles/testSQLITE.dir
